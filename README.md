@@ -1,4 +1,6 @@
+https://pypi.org/project/df-to-dictionary/
 # df_to_dictionary
+
     % This module is for convert dataframe to dictionary in river dataset format %
 
     River is the famous online machine learning dictionary in python but it can only support dictionary as a input. For that         reason we have to convert dataframe to dictionary.
