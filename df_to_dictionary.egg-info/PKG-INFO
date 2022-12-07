@@ -1,12 +1,14 @@
 Metadata-Version: 2.1
 Name: df-to-dictionary
-Version: 0.2
+Version: 0.5
 Author: Nilesh Shinde
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
 
 
-    % This is module of convert dataframe to dictionary in river dataset format %
+    Author : Nilesh Shinde
+
+    % This module is for convert dataframe to dictionary in river dataset format %
 
     River is the famous online machine learning dictionary in python but it can only support dictionary as a input. For that reason we have to convert dataframe to dictionary.
 

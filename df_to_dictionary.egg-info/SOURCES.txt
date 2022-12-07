@@ -1,6 +1,7 @@
 LICENSE.txt
 setup.py
 df_to_dictionary/__init__.py
+df_to_dictionary/main.py
 df_to_dictionary.egg-info/PKG-INFO
 df_to_dictionary.egg-info/SOURCES.txt
 df_to_dictionary.egg-info/dependency_links.txt

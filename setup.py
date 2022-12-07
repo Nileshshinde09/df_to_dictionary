@@ -1,10 +1,12 @@
 from setuptools import setup
 setup(name="df_to_dictionary"
-,version="0.2"
+,version="0.5"
 ,long_description_content_type='text/markdown',
 long_description=
 """
-    % This is module of convert dataframe to dictionary in river dataset format %
+    Author : Nilesh Shinde
+
+    % This module is for convert dataframe to dictionary in river dataset format %
 
     River is the famous online machine learning dictionary in python but it can only support dictionary as a input. For that reason we have to convert dataframe to dictionary.
 
