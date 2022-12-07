@@ -1,4 +1,4 @@
-https://pypi.org/project/df-to-dictionary/
+https://pypi.org/project/df-to-dictionary/0.4/
 # df_to_dictionary
 
     % This module is for convert dataframe to dictionary in river dataset format %
