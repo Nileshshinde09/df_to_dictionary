@@ -1,4 +1,5 @@
-https://pypi.org/project/df-to-dictionary/0.4/
+https://pypi.org/project/df-to-dictionary/0.5/
+
 """
     from df_to_dictionary.main import df_to_dictionary
 """
